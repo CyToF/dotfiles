@@ -7,13 +7,13 @@ there are 2 patches applyed on dwm (dynamic window manager).
 - fullgaps
 you need to change the path to the Bash script ( autostart.sh ) from the dwm/dwm.c line: 1394
 
-'''c
+```c
    void
    runAutostart(void) {
    
        system("bash /home/def/.autostart.sh");
    }
-'''
+```
 you need to change it to your own Bash script path.
 > system("bash /path/to/your/scipt.sh");
 

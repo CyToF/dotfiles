@@ -18,3 +18,8 @@ you need to change it to your own Bash script path.
 > system("bash /path/to/your/scipt.sh");
 
 also you can change the gaps size with `window_key,+` and `window_key,shift, +`
+
+### screenshots:
+()[dwm/main_earth.png]
+()[dwm/runrest.png]
+()[dwm/screenshot.png]

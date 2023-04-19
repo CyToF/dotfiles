@@ -20,6 +20,6 @@ you need to change it to your own Bash script path.
 also you can change the gaps size with `window_key,+` and `window_key,shift, +`
 
 ### screenshots:
-()[dwm/main_earth.png]
-()[dwm/runrest.png]
-()[dwm/screenshot.png]
+!(1)[dwm/main_earth.png]
+!(2)[dwm/runrest.png]
+!(3)[dwm/screenshot.png]
